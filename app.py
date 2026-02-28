@@ -10,5 +10,5 @@ db_config = {
     'host': 'book-rds.cinsoscgioqa.us-east-1.rds.amazonaws.com',
     'user': 'admin',
     'password': 'SuperSecretPass123',
-    'database': 'preprod'
+    'database': 'prod'
     }
